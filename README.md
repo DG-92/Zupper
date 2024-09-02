@@ -22,7 +22,7 @@
 
 Para ter acesso ao repositório:
 ```bash
-https://github.com/lucassillva/Zupper.git
+https://github.com/DG-92/Zupper
 ```
 
 ### 3° Execute o comando
